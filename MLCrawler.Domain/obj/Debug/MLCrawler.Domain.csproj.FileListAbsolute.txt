@@ -1,0 +1,6 @@
+C:\Users\Cognizant\source\repos\WindowsFormsApp1\MLCrawler.Domain\bin\Debug\MLCrawler.Domain.dll
+C:\Users\Cognizant\source\repos\WindowsFormsApp1\MLCrawler.Domain\bin\Debug\MLCrawler.Domain.pdb
+C:\Users\Cognizant\source\repos\WindowsFormsApp1\MLCrawler.Domain\obj\Debug\MLCrawler.Domain.csprojAssemblyReference.cache
+C:\Users\Cognizant\source\repos\WindowsFormsApp1\MLCrawler.Domain\obj\Debug\MLCrawler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cognizant\source\repos\WindowsFormsApp1\MLCrawler.Domain\obj\Debug\MLCrawler.Domain.dll
+C:\Users\Cognizant\source\repos\WindowsFormsApp1\MLCrawler.Domain\obj\Debug\MLCrawler.Domain.pdb
